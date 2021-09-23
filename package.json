@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/iKishanSharma.lwc-ktwj6kcm",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve vpuonlhLvGdEc62LxBv6 --open"
+  }
+}
